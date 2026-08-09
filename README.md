@@ -1,7 +1,7 @@
 # kali-linux-wallpapers
 <div align="center">
 
-# 🐉 Kali Linux Wallpapers
+# Kali Linux Wallpapers
 
 ### A curated collection of dark, cinematic, minimal and cyber-inspired wallpapers for Kali Linux.
 
