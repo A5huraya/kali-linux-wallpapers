@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="assets/kali-red-moon.png" width="100%" alt="Kali Linux Red Moon Wallpaper">
+<img src="images/Samurai + red moon Kali.png" width="100%" alt="Kali Linux Red Moon Wallpaper">
 
 <br><br>
 
