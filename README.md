@@ -80,40 +80,132 @@ The repository will contain several different styles.
 
 ---
 
-## 🖼️ Gallery
-
-> More wallpapers are being added.
-
-### Dark & Cinematic
+## 🖼️ Wallpaper Gallery
 
 <div align="center">
 
-| Red Moon | Dark Mountains |
-|:---:|:---:|
-| <img src="assets/kali-red-moon.png" width="420"> | Coming Soon |
-| **Red Moon** | **Dark Mountains** |
+<table>
+<tr>
+<td align="center">
+<img src="images/blue%20eclipse.png" width="280"><br>
+<b>Blue Eclipse</b>
+</td>
+
+<td align="center">
+<img src="images/Blue%20Flame%20Dragon%20Kali.png" width="280"><br>
+<b>Blue Flame Dragon</b>
+</td>
+
+<td align="center">
+<img src="images/Cyber-Samurai%20Kali%20Dragon%20Landscape.png" width="280"><br>
+<b>Cyber Samurai</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="images/Dark%20%2B%20Cinematic%20Kali%20Hacker.png" width="280"><br>
+<b>Dark Cinematic</b>
+</td>
+
+<td align="center">
+<img src="images/Dragon%20%2B%20Code%20Vortex%20Kali.png" width="280"><br>
+<b>Code Vortex</b>
+</td>
+
+<td align="center">
+<img src="images/Dragon%20%2B%20Matrix%20Rain%20Kali.png" width="280"><br>
+<b>Matrix Dragon</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="images/Electric%20Dragon%20%2B%20Hacker%20Interface%20Kali.png" width="280"><br>
+<b>Electric Dragon</b>
+</td>
+
+<td align="center">
+<img src="images/kali-dragon-cyber-core.png" width="280"><br>
+<b>Cyber Core</b>
+</td>
+
+<td align="center">
+<img src="images/Kali%20Dragon%20%2B%20Midnight%20Mountains.png" width="280"><br>
+<b>Midnight Mountains</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="images/Metallic%20Dragon%20Over%20Volcanic%20Inferno.png" width="280"><br>
+<b>Volcanic Inferno</b>
+</td>
+
+<td align="center">
+<img src="images/Minimal%20Neon%20Dragon%20Kali.png" width="280"><br>
+<b>Minimal Neon</b>
+</td>
+
+<td align="center">
+<img src="images/Neon%20Dragon%20%2B%20Matrix%20Terminal%20Kali.png" width="280"><br>
+<b>Matrix Terminal</b>
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<img src="images/Neon%20Dragon%20Over%20Misty%20Mountains.png" width="280"><br>
+<b>Misty Mountains</b>
+</td>
+
+<td align="center">
+<img src="images/Samurai%20%2B%20red%20moon%20Kali.png" width="280"><br>
+<b>Samurai × Red Moon</b>
+</td>
+
+<td align="center">
+<img src="images/Hooded%20Hacker%20%2B%20Code%20Vortex%20Kali.png" width="280"><br>
+<b>Code Vortex Hacker</b>
+</td>
+</tr>
+</table>
 
 </div>
 
-### Cyber Collection
+---
+
+## 🌀 Debian Collection
 
 <div align="center">
 
-| Matrix Dragon | Cyber City |
-|:---:|:---:|
-| Coming Soon | Coming Soon |
-| **Matrix Dragon** | **Cyber City** |
+<table>
+<tr>
+<td align="center">
+<img src="images/debian.png" width="280"><br>
+<b>Debian Minimal</b>
+</td>
 
-</div>
+<td align="center">
+<img src="images/debian%20view.png" width="280"><br>
+<b>Debian View</b>
+</td>
 
-### Minimal Collection
+<td align="center">
+<img src="images/debian%20with%20effects.png" width="280"><br>
+<b>Debian Effects</b>
+</td>
+</tr>
 
-<div align="center">
-
-| Black Dragon | Kali Blue |
-|:---:|:---:|
-| Coming Soon | Coming Soon |
-| **Black Dragon** | **Kali Blue** |
+<tr>
+<td align="center">
+<img src="images/debian%20dev.png" width="280"><br>
+<b>Debian Developer</b>
+</td>
+<td></td>
+<td></td>
+</tr>
+</table>
 
 </div>
 
