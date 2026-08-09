@@ -1,4 +1,3 @@
-# kali-linux-wallpapers
 <div align="center">
 
 # Kali Linux Wallpapers
