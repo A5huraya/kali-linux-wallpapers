@@ -47,7 +47,7 @@ Kali Linux.
 
 ### Red Moon
 
-<img src="assets/kali-red-moon.png" width="900" alt="Kali Linux Red Moon">
+<img src="images/Cyber-Samurai Kali Dragon Landscape.png" width="900" alt="Kali Linux Red Moon">
 
 **Kali Dragon × Blood Moon × Dark Japan**
 
